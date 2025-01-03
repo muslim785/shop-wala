@@ -7,7 +7,8 @@ const firebaseConfig = {
   projectId: "shopper-63da8",
   storageBucket: "shopper-63da8.firebasestorage.app",
   messagingSenderId: "186999931477",
-  appId: "1:186999931477:web:99a3ff0c23d2c769f28adc"npn
+  appId: "1:186999931477:web:99a3ff0c23d2c769f28adc",
+
 };
 
 // Initialize Firebase
